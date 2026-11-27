@@ -232,4 +232,4 @@ tr:nth-child(even) td {
   .content-grid {
     grid-template-columns: 1fr;
   }
-    }
+  }
